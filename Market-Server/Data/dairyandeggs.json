@@ -1,137 +1,190 @@
 [
-  {
-    "id": 121,
-    "name": "Great Value Vanilla Flavored Ice Cream Sandwiches, 42 fl oz, 12 Pack",
-    "description": "7.5 ¢/fl oz",
-    "image": "http://localhost:5274/api/image/ice_cream_sandwiches",
-    "price": 3.17,
-    "priceText": "$3.17",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 122,
-    "name": "Snickers Creamy Ice Cream Bars, 2.0 fl oz, 12 Count",
-    "description": "33.3 ¢/fl oz",
-    "image": "http://localhost:5274/api/image/snickers_ice_cream_bars",
-    "price": 7.98,
-    "priceText": "$7.98",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 123,
-    "name": "Popsicle Fudgsicle No Sugar Added The Original Fudge Pops Popsicles Ice Pops, 1.65 fl oz, 18 Count",
-    "description": "19.9 ¢/fl oz",
-    "image": "http://localhost:5274/api/image/fudgsicle_popsicles",
-    "price": 5.92,
-    "priceText": "$5.92",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 124,
-    "name": "Drumstick Original Vanilla Sundae Ice Cream Cones, Kosher, 8 Count, 36.8 oz",
-    "description": "18.3 ¢/fl oz",
-    "image": "http://localhost:5274/api/image/drumstick_ice_cream_cones",
-    "price": 7.48,
-    "priceText": "$7.48",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 125,
-    "name": "bettergoods Assorted Macarons, 5.4 oz, 12 Count",
-    "description": "$1.16/oz",
-    "image": "http://localhost:5274/api/image/macarons",
-    "price": 6.26,
-    "priceText": "$6.26",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 126,
-    "name": "bettergoods Raspberry Cake Pops, 5.4 oz",
-    "description": "$1.10/oz",
-    "image": "http://localhost:5274/api/image/raspberry_cake_pops",
-    "price": 5.94,
-    "priceText": "$5.94",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 127,
-    "name": "bettergoods Chocolate Cake Pops, 5.4 oz",
-    "description": "$1.10/oz",
-    "image": "http://localhost:5274/api/image/chocolate_cake_pops",
-    "price": 5.94,
-    "priceText": "$5.94",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 128,
-    "name": "Sara Lee French Style Strawberry Cheesecake, Frozen Dessert, 26 oz Box",
-    "description": "26.0 ¢/oz",
-    "image": "http://localhost:5274/api/image/strawberry_cheesecake",
-    "price": 6.77,
-    "priceText": "$6.77",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 129,
-    "name": "Sara Lee Classic Pound Cake 16oz (Frozen)",
-    "description": "31.1 ¢/oz",
-    "image": "http://localhost:5274/api/image/classic_pound_cake",
-    "price": 5.62,
-    "priceText": "$5.62",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 130,
-    "name": "Marie Callender's Aged Cheddar Cheesy Chicken and Rice Bowl, Frozen Meal, 12 oz (frozen)",
-    "description": "23.3 ¢/oz",
-    "image": "http://localhost:5274/api/image/cheddar_chicken_rice_bowl",
-    "price": 2.80,
-    "priceText": "$2.80",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 131,
-    "name": "Banquet Chicken Pot Pie, Frozen Pot Pie Dinner, 7 oz (Frozen)",
-    "description": "15.1 ¢/oz",
-    "image": "http://localhost:5274/api/image/chicken_pot_pie",
-    "price": 1.06,
-    "priceText": "$1.06",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 132,
-    "name": "Great Value Mixed Fruit, Frozen, 16 oz",
-    "description": "14.9 ¢/oz",
-    "image": "http://localhost:5274/api/image/mixed_fruit",
-    "price": 2.38,
-    "priceText": "$2.38",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 133,
-    "name": "Great Value Blueberries, 16 oz (Frozen)",
-    "description": "17.0 ¢/oz",
-    "image": "http://localhost:5274/api/image/blueberries",
-    "price": 2.72,
-    "priceText": "$2.72",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 134,
-    "name": "Great Value Whole Strawberries, Frozen, 16 oz",
-    "description": "17.0 ¢/oz",
-    "image": "http://localhost:5274/api/image/strawberries_frozen",
-    "price": 2.72,
-    "priceText": "$2.72",
-    "categoryID": "dairyandeggs"
-  },
-  {
-    "id": 135,
-    "name": "Great Value Frozen Whole Berry Medley, 16oz",
-    "description": "22.0 ¢/oz",
-    "image": "http://localhost:5274/api/image/berry_medley",
-    "price": 3.52,
-    "priceText": "$3.52",
-    "categoryID": "dairyandeggs"
-  }
+    {
+        "id": 94,
+        "name": "Silk Dairy Free, Gluten Free, Original Protein Almond Milk, 59 fl oz Carton",
+        "description": "7.8 ¢/fl oz",
+        "image": "http://localhost:5274/api/image/original_protein_almond_milk",
+        "price": 4.60,
+        "priceText": "$4.60",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 95,
+        "name": "Silk Dairy Free, Gluten Free, Dark Chocolate Protein Almond Milk, 59 fl oz Carton",
+        "description": "7.8 ¢/fl oz",
+        "image": "http://localhost:5274/api/image/dark_chocolate_protein_almond_milk",
+        "price": 4.60,
+        "priceText": "$4.60",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 96,
+        "name": "Almond Breeze Original Almondmilk, 96 oz",
+        "description": "5.0 ¢/fl oz",
+        "image": "http://localhost:5274/api/image/original_almondmilk",
+        "price": 4.78,
+        "priceText": "$4.78",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 97,
+        "name": "Lactaid 100% Lactose Free 1% Lowfat Milk, 96.0 FL OZ",
+        "description": "7.0 ¢/fl oz",
+        "image": "http://localhost:5274/api/image/lactaid_lowfat_milk",
+        "price": 6.68,
+        "priceText": "$6.68",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 98,
+        "name": "Great Value Organic 2% Reduced-Fat Milk, Half Gallon",
+        "description": "6.2 ¢/fl oz",
+        "image": "http://localhost:5274/api/image/organic_reducedfat_milk",
+        "price": 3.98,
+        "priceText": "$3.98",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 99,
+        "name": "Great Value Milk Whole Vitamin D Gallon Plastic Jug",
+        "description": "2.8 ¢/fl oz",
+        "image": "http://localhost:5274/api/image/whole_milk",
+        "price": 3.60,
+        "priceText": "$3.60",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 100,
+        "name": "Kraft Singles American Cheese Slices, 24 Ct Pk",
+        "description": "31.1 ¢/oz",
+        "image": "http://localhost:5274/api/image/american_cheese_slices",
+        "price": 4.98,
+        "priceText": "$4.98",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 101,
+        "name": "Great Value Finely Shredded Colby Jack Cheese, 8 oz",
+        "description": "27.8 ¢/oz",
+        "image": "http://localhost:5274/api/image/colby_jack_cheese",
+        "price": 2.22,
+        "priceText": "$2.22",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 102,
+        "name": "Great Value Mozzarella String Cheese Sticks, 12 oz Bag, 12 Count (Refrigerated)",
+        "description": "24.8 ¢/oz",
+        "image": "http://localhost:5274/api/image/mozzarella_string_cheese",
+        "price": 2.98,
+        "priceText": "$2.98",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 103,
+        "name": "Great Value Grated Parmesan Cheese, 8 oz Bottle",
+        "description": "36.5 ¢/oz",
+        "image": "http://localhost:5274/api/image/parmesan_cheese",
+        "price": 2.92,
+        "priceText": "$2.92",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 104,
+        "name": "Great Value Cage-Free Large White Eggs, 18 Count",
+        "description": "15.8 ¢/count",
+        "image": "http://localhost:5274/api/image/cagefree_white_eggs",
+        "price": 2.84,
+        "priceText": "$2.84",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 105,
+        "name": "Great Value Cage Free Large White Eggs, 12 Count",
+        "description": "16.0 ¢/count",
+        "image": "http://localhost:5274/api/image/cagefree_white_eggs12",
+        "price": 1.92,
+        "priceText": "$1.92",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 106,
+        "name": "Marketside Cage-Free Large Brown Eggs, 18 Count",
+        "description": "22.1 ¢/ea",
+        "image": "http://localhost:5274/api/image/cagefree_brown_egg",
+        "price": 3.98,
+        "priceText": "$3.98",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 107,
+        "name": "Great Value Cage-Free Grade AA Large White Eggs, 36 Count",
+        "description": "15.7 ¢/count",
+        "image": "http://localhost:5274/api/image/cagefree_white_eggs36",
+        "price": 5.64,
+        "priceText": "$5.64",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 108,
+        "name": "Great Value Cage-Free Grade AA Extra Large White Eggs, 18 Count",
+        "description": "",
+        "image": "http://localhost:5274/api/image/cagefree_extra_large_eggs",
+        "price": 4.98,
+        "priceText": "$4.98"
+    },
+    {
+        "id": 109,
+        "name": "Great Value Sweet Cream Salted Butter Twin Pack, 16 oz, 2 Count",
+        "description": "23.7 ¢/oz",
+        "image": "http://localhost:5274/api/image/salted_butter_twin_pack",
+        "price": 7.58,
+        "priceText": "$7.58",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 110,
+        "name": "bettergoods Cinnamon Honey Butter, 3 oz",
+        "description": "69.2 ¢/oz",
+        "image": "http://localhost:5274/api/image/cinnamon_honey_butter",
+        "price": 2.56,
+        "priceText": "$2.56",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 111,
+        "name": "bettergoods Garlic, Parmesan, & Basil Butter, 3 oz",
+        "description": "85.3 ¢/oz",
+        "image": "http://localhost:5274/api/image/garlic_parmesan_basil_butter",
+        "price": 2.56,
+        "priceText": "$2.56",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 112,
+        "name": "Great Value Original Vanilla Lowfat Yogurt, 32 oz",
+        "description": "7.4 ¢/oz",
+        "image": "http://localhost:5274/api/image/vanilla_lowfat_yogurt",
+        "price": 2.36,
+        "priceText": "$2.36",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 113,
+        "name": "Great Value Original Strawberry Banana Lowfat Yogurt, 6 oz Cups, 4 Count",
+        "description": "8.2 ¢/oz",
+        "image": "http://localhost:5274/api/image/strawberry_banana_lowfat_yogurt",
+        "price": 1.96,
+        "priceText": "$1.96",
+        "categoryID": "dairyandeggs"
+    },
+    {
+        "id": 114,
+        "name": "Great Value Greek Plain Nonfat Yogurt, 32 oz Tub",
+        "description": "11.6 ¢/oz",
+        "image": "http://localhost:5274/api/image/plain_nonfat_yogurt",
+        "price": 3.72,
+        "priceText": "$3.72",
+        "categoryID": "dairyandeggs"
+    }
 ]
