@@ -1,0 +1,83 @@
+[
+  {
+    "id": 235,
+    "name": "Smirnoff No. 21 80 Proof Vodka, 1.75 L Glass Bottle, 40% ABV",
+    "description": "32.1 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/smirnoff_vodka",
+    "price": 18.98,
+    "priceText": "$18.98",
+    "categoryID": "alcohol"
+  },
+  {
+    "id": 236,
+    "name": "Cutwater Spirits Tequila Lime Margarita, 4 Pack 12 fl. oz. Aluminum Cans, 12.5% ABV",
+    "description": "20.8 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/tequila_lime_margarita",
+    "price": 11.98,
+    "priceText": "$11.98",
+    "categoryID": "alcohol"
+  },
+  {
+    "id": 237,
+    "name": "Johnnie Walker Black Label Blended Scotch Whisky, 1.75 L, 40% ABV",
+    "description": "$1.23/fl oz",
+    "image": "http://localhost:5274/api/image/johnnie_walker_whisky",
+    "price": 72.98,
+    "priceText": "$72.98",
+    "categoryID": "alcohol"
+  },
+  {
+    "id": 238,
+    "name": "Captain Morgan Original Spiced Rum (Made with Real Madagascar Vanilla), 750 mL, 35% ABV",
+    "description": "53.1 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/captain_morgan_rum",
+    "price": 13.48,
+    "priceText": "$13.48",
+    "categoryID": "alcohol"
+  },
+  {
+    "id": 239,
+    "name": "Seagram's Escapes Classic Variety Pack, Flavored Malt Beverage, 12 pack, 11.2 fl oz Bottles 3.2% ABV",
+    "description": "11.9 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/seagrams_escapes",
+    "price": 15.98,
+    "priceText": "$15.98",
+    "categoryID": "alcohol"
+  },
+  {
+    "id": 240,
+    "name": "Crown Royal Fine De Luxe Blended Canadian Whisky, 1.75 L, 40% ABV",
+    "description": "70.9 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/crown_royal_whisky",
+    "price": 41.98,
+    "priceText": "$41.98",
+    "categoryID": "alcohol"
+  },
+  {
+    "id": 241,
+    "name": "Johnnie Walker Black Label Blended Scotch Whisky, 750 mL, 40% ABV",
+    "description": "$1.30/fl oz",
+    "image": "http://localhost:5274/api/image/johnnie_walker_whisky7",
+    "price": 32.98,
+    "priceText": "$32.98",
+    "categoryID": "alcohol"
+  },
+  {
+    "id": 242,
+    "name": "Crown Royal Peach Flavored Whisky, 750 mL, 35% ABV",
+    "description": "96.4 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/crown_royal_peach_whisky",
+    "price": 24.48,
+    "priceText": "$24.48",
+    "categoryID": "alcohol"
+  },
+  {
+    "id": 243,
+    "name": "Proper No. Twelve® Irish Whiskey, 40% ABV, 80 Proof, 1 Count, 750 ml Glass Bottle",
+    "description": "86.5 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/proper_twelve_whiskey",
+    "price": 21.98,
+    "priceText": "$21.98",
+    "categoryID": "alcohol"
+  }
+]

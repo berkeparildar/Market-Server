@@ -1,0 +1,137 @@
+[
+  {
+    "id": 121,
+    "name": "Great Value Vanilla Flavored Ice Cream Sandwiches, 42 fl oz, 12 Pack",
+    "description": "7.5 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/ice_cream_sandwiches",
+    "price": 3.17,
+    "priceText": "$3.17",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 122,
+    "name": "Snickers Creamy Ice Cream Bars, 2.0 fl oz, 12 Count",
+    "description": "33.3 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/snickers_ice_cream_bars",
+    "price": 7.98,
+    "priceText": "$7.98",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 123,
+    "name": "Popsicle Fudgsicle No Sugar Added The Original Fudge Pops Popsicles Ice Pops, 1.65 fl oz, 18 Count",
+    "description": "19.9 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/fudgsicle_popsicles",
+    "price": 5.92,
+    "priceText": "$5.92",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 124,
+    "name": "Drumstick Original Vanilla Sundae Ice Cream Cones, Kosher, 8 Count, 36.8 oz",
+    "description": "18.3 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/drumstick_ice_cream_cones",
+    "price": 7.48,
+    "priceText": "$7.48",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 125,
+    "name": "bettergoods Assorted Macarons, 5.4 oz, 12 Count",
+    "description": "$1.16/oz",
+    "image": "http://localhost:5274/api/image/macarons",
+    "price": 6.26,
+    "priceText": "$6.26",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 126,
+    "name": "bettergoods Raspberry Cake Pops, 5.4 oz",
+    "description": "$1.10/oz",
+    "image": "http://localhost:5274/api/image/raspberry_cake_pops",
+    "price": 5.94,
+    "priceText": "$5.94",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 127,
+    "name": "bettergoods Chocolate Cake Pops, 5.4 oz",
+    "description": "$1.10/oz",
+    "image": "http://localhost:5274/api/image/chocolate_cake_pops",
+    "price": 5.94,
+    "priceText": "$5.94",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 128,
+    "name": "Sara Lee French Style Strawberry Cheesecake, Frozen Dessert, 26 oz Box",
+    "description": "26.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/strawberry_cheesecake",
+    "price": 6.77,
+    "priceText": "$6.77",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 129,
+    "name": "Sara Lee Classic Pound Cake 16oz (Frozen)",
+    "description": "31.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/classic_pound_cake",
+    "price": 5.62,
+    "priceText": "$5.62",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 130,
+    "name": "Marie Callender's Aged Cheddar Cheesy Chicken and Rice Bowl, Frozen Meal, 12 oz (frozen)",
+    "description": "23.3 ¢/oz",
+    "image": "http://localhost:5274/api/image/cheddar_chicken_rice_bowl",
+    "price": 2.80,
+    "priceText": "$2.80",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 131,
+    "name": "Banquet Chicken Pot Pie, Frozen Pot Pie Dinner, 7 oz (Frozen)",
+    "description": "15.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/chicken_pot_pie",
+    "price": 1.06,
+    "priceText": "$1.06",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 132,
+    "name": "Great Value Mixed Fruit, Frozen, 16 oz",
+    "description": "14.9 ¢/oz",
+    "image": "http://localhost:5274/api/image/mixed_fruit",
+    "price": 2.38,
+    "priceText": "$2.38",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 133,
+    "name": "Great Value Blueberries, 16 oz (Frozen)",
+    "description": "17.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/blueberries",
+    "price": 2.72,
+    "priceText": "$2.72",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 134,
+    "name": "Great Value Whole Strawberries, Frozen, 16 oz",
+    "description": "17.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/strawberries_frozen",
+    "price": 2.72,
+    "priceText": "$2.72",
+    "categoryID": "dairyandeggs"
+  },
+  {
+    "id": 135,
+    "name": "Great Value Frozen Whole Berry Medley, 16oz",
+    "description": "22.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/berry_medley",
+    "price": 3.52,
+    "priceText": "$3.52",
+    "categoryID": "dairyandeggs"
+  }
+]

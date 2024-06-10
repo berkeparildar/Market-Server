@@ -1,0 +1,164 @@
+[
+  {
+    "id": 37,
+    "name": "Coca-Cola Classic Soda Pop, 12 fl oz Cans, 24 Pack",
+    "description": "4.3 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/coca_cola_classic",
+    "price": 13.88,
+    "priceText": "$13.88",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 38,
+    "name": "Pepsi Cola Soda Pop, 2 Liter Bottle",
+    "description": "2.9 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/pepsi_cola",
+    "price": 2.48,
+    "priceText": "$2.48",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 39,
+    "name": "Great Value Twist up Lemon Lime Soda, 2 Liter Bottle",
+    "description": "1.5 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/lemon_lime_soda",
+    "price": 1.48,
+    "priceText": "$1.48",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 40,
+    "name": "Great Value Purified Drinking Water, 16.9 fl oz Bottles, 40 Count",
+    "description": "0.8 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/great_value_purified_water_40",
+    "price": 5.63,
+    "priceText": "$5.63",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 41,
+    "name": "Pure Life Purified Water, 16.9 Fl Oz / 500 mL, Plastic Bottled Water (35 Pack)",
+    "description": "1.1 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/pure_life_water_35",
+    "price": 6.58,
+    "priceText": "$6.58",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 42,
+    "name": "Great Value Purified Drinking Water, 16.9 fl oz, 24 Count",
+    "description": "0.9 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/great_value_purified_water_24",
+    "price": 3.64,
+    "priceText": "$3.64",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 44,
+    "name": "Kool Aid Jammers Summer Blast Boomin' Berry Kids Drink 0% Juice Box Pouches, 10 Ct Box, 6 fl oz Pouches",
+    "description": "4.1 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/kool_aid_jammers",
+    "price": 2.48,
+    "priceText": "$2.48",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 45,
+    "name": "Hawaiian Punch Fruit Juicy Red Juice Drink, 6.75 fl oz, 8 Count Boxes",
+    "description": "5.4 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/hawaiian_punch_fruit_juicy_red",
+    "price": 2.92,
+    "priceText": "$2.92",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 46,
+    "name": "Hawaiian Punch Polar Blast Juice Drink, 6.75 fl oz, 8 Count Boxes",
+    "description": "5.4 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/hawaiian_punch_polar_blast",
+    "price": 2.92,
+    "priceText": "$2.92",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 47,
+    "name": "Fun Pops Drinks, 16 Pack",
+    "description": "2.7 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/fun_pops",
+    "price": 2.58,
+    "priceText": "$2.58",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 48,
+    "name": "Skittles Drinks 3 Flavor Variety Pack 14oz",
+    "description": "17.1 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/skittles_drinks",
+    "price": 14.39,
+    "priceText": "$14.39",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 49,
+    "name": "Capri Sun Variety Pack with Fruit Punch",
+    "description": "5.2 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/capri_sun_variety_pack",
+    "price": 9.43,
+    "priceText": "$9.43",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 50,
+    "name": "SUNNYD Tangy Original Orange Juice Drink, 18 Count, 6.75 FL OZ Bottles",
+    "description": "5.0 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/sunnyd_tangy_original",
+    "price": 6.12,
+    "priceText": "$6.12",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 51,
+    "name": "Hi-C Flashin Fruit Punch Juice, 6 fl oz, 8 Juice Boxes",
+    "description": "4.1 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/hi_c_flashin_fruit_punch",
+    "price": 1.96,
+    "priceText": "$1.96",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 52,
+    "name": "(12 Cans) Juice Monster VP, Mango Loco, Pipeline Punch, Pacific Punch, 16 fl oz, 12 Pack",
+    "description": "10.4 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/juice_monster_vp",
+    "price": 19.98,
+    "priceText": "$19.98",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 53,
+    "name": "NOS High Performance Energy Drink, Original, 16 fl oz, 8 Pack",
+    "description": "9.4 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/nos_high_performance",
+    "price": 11.98,
+    "priceText": "$11.98",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 54,
+    "name": "Monster Energy, Ultra VP, Ultra Peachy Keen, Strawberry Dreams, Zero Ultra, 16 fl oz, 12 pk",
+    "description": "10.4 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/monster_energy",
+    "price": 19.98,
+    "priceText": "$19.98",
+    "categoryID": "beverages"
+  },
+  {
+    "id": 55,
+    "name": "Red Bull Energy Drink, 8.4 fl oz, Pack of 12 Cans",
+    "description": "19.6 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/red_bull_energy",
+    "price": 19.78,
+    "priceText": "$19.78",
+    "categoryID": "beverages"
+  }
+]

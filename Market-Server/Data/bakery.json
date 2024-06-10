@@ -1,0 +1,182 @@
+[
+  {
+    "id": 74,
+    "name": "Regular Cinnamon Rolls, 22 oz Clam Shell, Shelf Stable, 8 Count",
+    "description": "17.2 ¢/oz",
+    "image": "http://localhost:5274/api/image/regular_cinnamon_rolls",
+    "price": 4.24,
+    "priceText": "$4.24",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 75,
+    "name": "French Bread, 14 oz",
+    "description": "7.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/french_bread",
+    "price": 1.47,
+    "priceText": "$1.47",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 76,
+    "name": "Sliced Italian Bread, 14 oz",
+    "description": "7.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/sliced_italian_bread",
+    "price": 1.47,
+    "priceText": "$1.47",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 77,
+    "name": "Candy Bakery Cookies Made with M&M'S Candies, 14 oz, 10 Count",
+    "description": "21.3 ¢/oz",
+    "image": "http://localhost:5274/api/image/candy_bakery_cookies_mms",
+    "price": 3.47,
+    "priceText": "$3.47",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 78,
+    "name": "Mini Iced Cinnamon Rolls, Kosher, 13 oz Tray, 16 Count (Shelf Stable)",
+    "description": "34.5 ¢/oz",
+    "image": "http://localhost:5274/api/image/mini_iced_cinnamon_rolls",
+    "price": 4.98,
+    "priceText": "$4.98",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 79,
+    "name": "Thomas' 100% Whole Wheat Bagels, 6 Count, 20 oz Bag",
+    "description": "18.8 ¢/oz",
+    "image": "http://localhost:5274/api/image/thomas_whole_wheat_bagels",
+    "price": 4.38,
+    "priceText": "$4.38",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 80,
+    "name": "Mini Eclairs, 9.75 oz, 5 Count, Fresh Bakery, Shelf-Stable/ Ambient, Clam shell",
+    "description": "30.6 ¢/oz",
+    "image": "http://localhost:5274/api/image/mini_eclairs",
+    "price": 3.47,
+    "priceText": "$3.47",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 81,
+    "name": "Bimbo Soft White Bread, 20 oz",
+    "description": "9.9 ¢/oz",
+    "image": "http://localhost:5274/api/image/bimbo_soft_white_bread",
+    "price": 1.98,
+    "priceText": "$1.98",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 82,
+    "name": "Sliced Plain French Bread, 14 oz",
+    "description": "7.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/sliced_plain_french_bread",
+    "price": 1.47,
+    "priceText": "$1.47",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 83,
+    "name": "Thomas' Cinnamon Raisin Bagels, 6 Count, 20 oz Bag",
+    "description": "18.8 ¢/oz",
+    "image": "http://localhost:5274/api/image/thomas_cinnamon_raisin_bagels",
+    "price": 4.38,
+    "priceText": "$4.38",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 84,
+    "name": "Peanut Butter Fudge No Bake Cookies, 12.38 oz, Shelf-Stable, 22 Pieces",
+    "description": "36.2 ¢/oz",
+    "image": "http://localhost:5274/api/image/peanut_butter_fudge_cookies",
+    "price": 4.48,
+    "priceText": "$4.48",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 85,
+    "name": "Black & White Cookies",
+    "description": "43.5 ¢/oz",
+    "image": "http://localhost:5274/api/image/black_white_cookies",
+    "price": 4.48,
+    "priceText": "$4.48",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 86,
+    "name": "Birthday Cake Sugar Cookies, 13.5 oz",
+    "description": "25.8 ¢/oz",
+    "image": "http://localhost:5274/api/image/birthday_cake_sugar_cookies",
+    "price": 4.48,
+    "priceText": "$4.48",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 87,
+    "name": "Everything French Bread, 14 oz",
+    "description": "10.5 ¢/oz",
+    "image": "http://localhost:5274/api/image/everything_french_bread",
+    "price": 1.78,
+    "priceText": "$1.78",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 88,
+    "name": "Baker's Dozen Regular Sugar Topped Donuts, 27 oz, 13 Count",
+    "description": "25.8 ¢/oz",
+    "image": "http://localhost:5274/api/image/regular_sugar_topped_donuts",
+    "price": 6.97,
+    "priceText": "$6.97",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 89,
+    "name": "Marketside Fresh Everything Bagels, Wheat and Barley Flour, Shelf-Stable, 22.8 oz, 6 Count",
+    "description": "16.4 ¢/oz",
+    "image": "http://localhost:5274/api/image/marketside_fresh_everything_bagels",
+    "price": 3.74,
+    "priceText": "$3.74",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 90,
+    "name": "Blueberry Mini Muffins, 12 oz Clamshell, 12 Count",
+    "description": "33.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/blueberry_mini_muffins",
+    "price": 3.97,
+    "priceText": "$3.97",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 91,
+    "name": "Marketside Triple-Filled Cheese Braid Danish Pastry, 18 oz Clamshell, 10 Servings",
+    "description": "29.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/triple_filled_cheese_braid_danish_pastry",
+    "price": 5.24,
+    "priceText": "$5.24",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 92,
+    "name": "Freshness Guaranteed Regular Strawberry Rolls, 22 oz Clam Shell, 8 Count (Shelf Stable)",
+    "description": "19.3 ¢/oz",
+    "image": "http://localhost:5274/api/image/regular_strawberry_rolls",
+    "price": 4.24,
+    "priceText": "$4.24",
+    "categoryID": "bakery"
+  },
+  {
+    "id": 93,
+    "name": "Marketside Triple Chocolate Muffins, 14 oz, 4 Count",
+    "description": "35.6 ¢/oz",
+    "image": "http://localhost:5274/api/image/triple_chocolate_muffins",
+    "price": 4.98,
+    "priceText": "$4.98",
+    "categoryID": "bakery"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 18,
+    "name": "Doritos Nacho Cheese Tortilla Snack Chips, Party Size, 14.5 oz Bag",
+    "description": "41.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/doritos_nacho_cheese",
+    "price": 5.94,
+    "priceText": "$5.94",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 19,
+    "name": "Lay's Classic Potato Snack Chips, Party Size, 13 oz Bag",
+    "description": "41.8 ¢/oz",
+    "image": "http://localhost:5274/api/image/lays_classic",
+    "price": 5.44,
+    "priceText": "$5.44",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 20,
+    "name": "Doritos Cool Ranch Tortilla Snack Chips, Party Size, 14.05 oz Bag",
+    "description": "41.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/doritos_cool_ranch",
+    "price": 5.94,
+    "priceText": "$5.94",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 21,
+    "name": "Tostitos Scoops! Tortilla Chips Party Size, 14.5 oz Bag",
+    "description": "41.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/tostitos_scoops",
+    "price": 5.94,
+    "priceText": "$5.94",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 22,
+    "name": "RITZ Fresh Stacks Original Crackers, Family Size, 17.8 oz",
+    "description": "28.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/ritz_crackers",
+    "price": 4.98,
+    "priceText": "$4.98",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 23,
+    "name": "Premium Original Saltine Crackers, 16 oz",
+    "description": "22.4 ¢/oz",
+    "image": "http://localhost:5274/api/image/saltine_crackers",
+    "price": 3.58,
+    "priceText": "$3.58",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 24,
+    "name": "Great Value Cheese Dip & Breadsticks Snacks, 1 oz, 5 Count",
+    "description": "37.2 ¢/oz",
+    "image": "http://localhost:5274/api/image/cheese_dip_breadsticks",
+    "price": 1.86,
+    "priceText": "$1.86",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 25,
+    "name": "OREO Churro Creme Sandwich Cookies, Limited Edition, 10.68 oz",
+    "description": "",
+    "image": "http://localhost:5274/api/image/oreo_churro",
+    "price": 13.89,
+    "priceText": "$13.89",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 26,
+    "name": "OREO Double Stuf Chocolate Sandwich Cookies, Family Size, 20 oz",
+    "description": "46.9 ¢/oz",
+    "image": "http://localhost:5274/api/image/oreo_double_stuf",
+    "price": 9.38,
+    "priceText": "$9.38",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 27,
+    "name": "CHIPS AHOY! Original Chocolate Chip Cookies, Family Size, 18.2 oz",
+    "description": "26.3 ¢/oz",
+    "image": "http://localhost:5274/api/image/chips_ahoy",
+    "price": 4.78,
+    "priceText": "$4.78",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 28,
+    "name": "Act II Xtreme Butter Microwave Popcorn, 2.75 oz, 12 Count",
+    "description": "15.6 ¢/oz",
+    "image": "http://localhost:5274/api/image/act_ii_xtreme_butter",
+    "price": 5.16,
+    "priceText": "$5.16",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 29,
+    "name": "Great Value Extra Butter Flavored Microwave Popcorn, 2.55 oz, 12 Count",
+    "description": "16.7 ¢/oz",
+    "image": "http://localhost:5274/api/image/great_value_extra_butter",
+    "price": 5.12,
+    "priceText": "$5.12",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 30,
+    "name": "Orville Redenbacher's Movie Theater Butter Microwave Popcorn, Mini Bags, 1.5 oz, 12 Count",
+    "description": "27.4 ¢/oz",
+    "image": "http://localhost:5274/api/image/orville_redenbacher_movie_theater_butter",
+    "price": 4.92,
+    "priceText": "$4.92",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 34,
+    "name": "Great Value Mini Pretzel Twists, 16 oz",
+    "description": "14.0 ¢/oz",
+    "image": "http://localhost:5274/api/image/mini_pretzel_twists",
+    "price": 2.24,
+    "priceText": "$2.24",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 35,
+    "name": "Rold Gold Tiny Twists Cheddar Flavored Pretzels, 10 oz",
+    "description": "39.8 ¢/oz",
+    "image": "http://localhost:5274/api/image/tiny_twists_cheddar",
+    "price": 3.98,
+    "priceText": "$3.98",
+    "categoryID": "snacks"
+  },
+  {
+    "id": 36,
+    "name": "Superpretzel Original Fully Baked Soft Pretzels, 13 oz Box, 6 Count (Frozen)",
+    "description": "26.6 ¢/oz",
+    "image": "http://localhost:5274/api/image/soft_pretzels",
+    "price": 3.46,
+    "priceText": "$3.46",
+    "categoryID": "snacks"
+  }
+]

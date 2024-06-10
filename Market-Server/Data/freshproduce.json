@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Banana Fruit, Each",
+    "description": "58.0 ¢/lb",
+    "image": "http://localhost:5274/api/image/banana",
+    "price": 0.27,
+    "priceText": "$0.27",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 2,
+    "name": "Fresh Strawberries, 1 lb Container",
+    "description": "11.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/strawberry",
+    "price": 1.77,
+    "priceText": "$1.77",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 3,
+    "name": "Fresh Clementines, 3 lb. Bag",
+    "description": "$1.66/lb",
+    "image": "http://localhost:5274/api/image/clementine",
+    "price": 4.98,
+    "priceText": "$4.98",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 4,
+    "name": "Fresh Green Seedless Grapes (2.25 lbs/Bag Est.)",
+    "description": "$1.88/lb",
+    "image": "http://localhost:5274/api/image/grapes",
+    "price": 4.23,
+    "priceText": "$4.23",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 5,
+    "name": "Fresh Hass Avocados, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/avocado",
+    "price": 1.06,
+    "priceText": "$1.06",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 6,
+    "name": "Cantaloupe, each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/cantaloupe",
+    "price": 2.98,
+    "priceText": "$2.98",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 7,
+    "name": "Fresh Plum, Each",
+    "description": "$2.98/lb",
+    "image": "http://localhost:5274/api/image/plum",
+    "price": 0.89,
+    "priceText": "$0.89",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 8,
+    "name": "Fresh Pineapple, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/pineapple",
+    "price": 2.38,
+    "priceText": "$2.38",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 9,
+    "name": "Fresh Seedless Watermelon, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/watermelon",
+    "price": 4.68,
+    "priceText": "$4.68",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 10,
+    "name": "Fresh Lime, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/lime",
+    "price": 0.25,
+    "priceText": "$0.25",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 11,
+    "name": "Fresh Yellow Peach, Each",
+    "description": "$2.48/lb",
+    "image": "http://localhost:5274/api/image/peach",
+    "price": 1.24,
+    "priceText": "$1.24",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 12,
+    "name": "Fresh Mangoes, Each, Sweet",
+    "description": "",
+    "image": "http://localhost:5274/api/image/mango",
+    "price": 0.98,
+    "priceText": "$0.98",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 13,
+    "name": "Fresh Red Grapefruit, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/grapefruit",
+    "price": 1.18,
+    "priceText": "$1.18",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 55,
+    "name": "Fresh Green Bell Pepper, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/bell_pepper",
+    "price": 0.86,
+    "priceText": "$0.86",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 56,
+    "name": "Fresh Cucumber, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/cucumber",
+    "price": 0.72,
+    "priceText": "$0.72",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 57,
+    "name": "Fresh Roma Tomato, Each",
+    "description": "$1.28/lb",
+    "image": "http://localhost:5274/api/image/tomato",
+    "price": 0.27,
+    "priceText": "$0.27",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 58,
+    "name": "Fresh Green Onions Bunch, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/green_onions",
+    "price": 0.98,
+    "priceText": "$0.98",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 59,
+    "name": "Fresh Broccoli Crowns, Each",
+    "description": "$1.74/lb",
+    "image": "http://localhost:5274/api/image/broccoli",
+    "price": 1.31,
+    "priceText": "$1.31",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 510,
+    "name": "Fresh Sweet Corn on the Cob (1 each)",
+    "description": "",
+    "image": "http://localhost:5274/api/image/corn",
+    "price": 0.50,
+    "priceText": "$0.50",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 511,
+    "name": "Fresh Whole Red Onion, Each",
+    "description": "$1.44/lb",
+    "image": "http://localhost:5274/api/image/red_onion",
+    "price": 1.15,
+    "priceText": "$1.15",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 512,
+    "name": "Fresh Whole Yellow Onion, Each",
+    "description": "$1.14/lb",
+    "image": "http://localhost:5274/api/image/yellow_onion",
+    "price": 0.91,
+    "priceText": "$0.91",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 513,
+    "name": "Fresh Green Cabbage, Each",
+    "description": "87.0 ¢/lb",
+    "image": "http://localhost:5274/api/image/cabbage",
+    "price": 3.48,
+    "priceText": "$3.48",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 514,
+    "name": "Fresh Yellow Squash, Each",
+    "description": "$1.48/lb",
+    "image": "http://localhost:5274/api/image/yellow_squash",
+    "price": 0.89,
+    "priceText": "$0.89",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 15,
+    "name": "Fresh Whole Carrots, 1 lb Bag",
+    "description": "6.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/carrots",
+    "price": 0.98,
+    "priceText": "$0.98",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 516,
+    "name": "Fresh Cauliflower, Each",
+    "description": "",
+    "image": "http://localhost:5274/api/image/cauliflower",
+    "price": 2.94,
+    "priceText": "$2.94",
+    "categoryID": "freshproduce"
+  },
+  {
+    "id": 517,
+    "name": "Fresh Whole Sweet Onion, Each",
+    "description": "$1.28/lb",
+    "image": "http://localhost:5274/api/image/sweet_onion",
+    "price": 1.10,
+    "priceText": "$1.10",
+    "categoryID": "freshproduce"
+  }
+]

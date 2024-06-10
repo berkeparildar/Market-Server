@@ -1,0 +1,164 @@
+[
+  {
+    "id": 56,
+    "name": "Kellogg's Special K Original Cold Breakfast Cereal, Family Size, 18 oz Box",
+    "description": "29.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/kelloggs_special_k",
+    "price": 5.23,
+    "priceText": "$5.23",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 57,
+    "name": "Great Value Frosted Strawberry Toaster Pastries, 20.3 oz, 12 Count",
+    "description": "9.7 ¢/oz",
+    "image": "http://localhost:5274/api/image/great_value_toaster_pastries",
+    "price": 1.97,
+    "priceText": "$1.97",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 58,
+    "name": "Pepperidge Farm Peach Turnovers Pastries, 4-Count 12.5 oz. Box",
+    "description": "95.5 ¢/oz",
+    "image": "http://localhost:5274/api/image/pepperidge_farm_peach_turnovers",
+    "price": 11.94,
+    "priceText": "$11.94",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 59,
+    "name": "Hungry Jack Complete Buttermilk Pancake Mix and Waffle Mix, 32 Oz Box",
+    "description": "9.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/hungry_jack_pancake_mix",
+    "price": 2.92,
+    "priceText": "$2.92",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 60,
+    "name": "Great Value Original Syrup, 24 oz",
+    "description": "10.3 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/great_value_syrup",
+    "price": 2.48,
+    "priceText": "$2.48",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 61,
+    "name": "Eggo Blueberry Waffles, Frozen Breakfast, 10 Count",
+    "description": "24.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/eggo_blueberry_waffles",
+    "price": 2.97,
+    "priceText": "$2.97",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 62,
+    "name": "Great Value Buttermilk Pancakes, 33 oz, 24 Count (Frozen)",
+    "description": "$3.93/ea",
+    "image": "http://localhost:5274/api/image/great_value_buttermilk_pancakes",
+    "price": 3.93,
+    "priceText": "$3.93",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 63,
+    "name": "Quaker Instant Oatmeal, Apples & Cranberries, Quick Cook Ready-to-Microwave Oatmeal, 1.79 oz Cup",
+    "description": "60.3 ¢/oz",
+    "image": "http://localhost:5274/api/image/quaker_instant_oatmeal",
+    "price": 1.08,
+    "priceText": "$1.08",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 64,
+    "name": "Great Value Complete Blueberry Pancake & Waffle Mix, 28 oz",
+    "description": "8.3 ¢/oz",
+    "image": "http://localhost:5274/api/image/great_value_blueberry_pancake_mix",
+    "price": 2.32,
+    "priceText": "$2.32",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 65,
+    "name": "Carnation Breakfast Essentials® Girl Scouts Thin Mints® Flavored Nutritional Drink, 6 - 8 fl oz Bottles",
+    "description": "16.3 ¢/fl oz",
+    "image": "http://localhost:5274/api/image/carnation_breakfast_essentials",
+    "price": 7.82,
+    "priceText": "$7.82",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 66,
+    "name": "Cream of Wheat, Instant Hot Cereal, Original, 1 oz, 12 Packets",
+    "description": "37.7 ¢/oz",
+    "image": "http://localhost:5274/api/image/cream_of_wheat",
+    "price": 4.52,
+    "priceText": "$4.52",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 67,
+    "name": "Nature's Bakery, Gluten Free, Blueberry Fig Bars, 6 Twin Packs, 2 oz Each",
+    "description": "48.6 ¢/oz",
+    "image": "http://localhost:5274/api/image/natures_bakery_blueberry_fig_bars",
+    "price": 5.83,
+    "priceText": "$5.83",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 68,
+    "name": "Nature Valley Soft-Baked Muffin Bars, Blueberry, Snack Bars, 10 Bars, 12.4 OZ",
+    "description": "54.7 ¢/oz",
+    "image": "http://localhost:5274/api/image/nature_valley_muffin_bars",
+    "price": 6.78,
+    "priceText": "$6.78",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 69,
+    "name": "Great Value Fruit & Grain Bars, Variety Pack, 41.6 oz, 32 Count",
+    "description": "16.3 ¢/oz",
+    "image": "http://localhost:5274/api/image/great_value_fruit_grain_bars",
+    "price": 6.78,
+    "priceText": "$6.78",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 70,
+    "name": "Reese's Puffs Breakfast Cereal Treat Bars, Peanut Butter & Cocoa, 16 ct",
+    "description": "48.1 ¢/oz",
+    "image": "http://localhost:5274/api/image/reeses_puffs_cereal_treat_bars",
+    "price": 6.54,
+    "priceText": "$6.54",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 71,
+    "name": "Kellogg's Nutri-Grain Strawberry Chewy Soft Baked Breakfast Bars, Ready-to-Eat, Kids Snacks, 16 Count",
+    "description": "",
+    "image": "http://localhost:5274/api/image/kelloggs_nutri_grain_bars",
+    "price": 5.98,
+    "priceText": "$5.98",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 72,
+    "name": "Reese's Puffs Cinnamon Toast Crunch Cereal Treat Bars Variety Pack, 28 ct",
+    "description": "44.7 ¢/oz",
+    "image": "http://localhost:5274/api/image/reeses_puffs_cinnamon_toast_crunch_treat_bars",
+    "price": 10.64,
+    "priceText": "$10.64",
+    "categoryID": "breakfastcereal"
+  },
+  {
+    "id": 73,
+    "name": "Nature’s Bakery, Raspberry Fig Bar Minis, 1 oz, 20 Count",
+    "description": "44.4 ¢/oz",
+    "image": "http://localhost:5274/api/image/natures_bakery_raspberry_fig_bar_minis",
+    "price": 8.87,
+    "priceText": "$8.87",
+    "categoryID": "breakfastcereal"
+  }
+]

@@ -1,0 +1,50 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Fresh Produce",
+    "image": "",
+    "route": "freshproduce"
+  },
+  {
+    "id": 2,
+    "name": "Bakery",
+    "image": "",
+    "route": "bakery"
+  },
+  {
+    "id": 3,
+    "name": "Breakfast & Cereal",
+    "image": "",
+    "route": "breakfastcereal"
+  },
+  {
+    "id": 4,
+    "name": "Dairy & Eggs",
+    "image": "",
+    "route": "dairyandeggs"
+  },
+  {
+    "id": 5,
+    "name": "Frozen",
+    "image": "",
+    "route": "frozen"
+  },
+  {
+    "id": 6,
+    "name": "Beverages",
+    "image": "",
+    "route": "beverages"
+  },
+  {
+    "id": 7,
+    "name": "Snacks",
+    "image": "",
+    "route": "snacks"
+  },
+  {
+    "id": 8,
+    "name": "Alcohol",
+    "image": "",
+    "route": "alcohol"
+  }
+]
